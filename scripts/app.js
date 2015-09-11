@@ -1,16 +1,13 @@
-/**
- * Created by Andriy3x1000 on 8/15/15.
- */
-
 (function() {
 
-	'use strict';
+  'use strict';
 
-	angular
-		.module('timeTracker',[
-			'ngResouce',
-			'ui.boostrap'
-		]);
+  angular
+    .module('timeTracker', [
+      'ngResource',
+      'ui.bootstrap'
+    ]);
 
-	)
 })();
+
+
